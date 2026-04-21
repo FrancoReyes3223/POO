@@ -1,11 +1,13 @@
+using System.Drawing;
+
 namespace POO;
 
 public class Semaforo
 {
     string colorActual;
     int segundosEnColor;
-    string colorAnterior;
-    int segundosAnterior;
+    
+    bool esIntermitente = false;
 
     public Semaforo(string colorInicial)
     {
@@ -15,12 +17,20 @@ public class Semaforo
 
     public void PasoDelTiempo(int segundos)
     {
-        if (colorActual == "Intermitente")
-            return;
 
+        
+        for(int i = 0; i < segundos && esIntermitente; i++)
+        {
+            colorActual = colorActual == "Amarillo" ? "Apagado" : "Amarillo";
+            segundosEnColor = 0; 
+            return;
+        }
+        
+        
         segundosEnColor += segundos;
 
         bool huboTransicion = true;
+
         while (huboTransicion)
         {
             huboTransicion = false;
@@ -59,14 +69,16 @@ public class Semaforo
 
     public void PonerEnIntermitente()
     {
-        colorAnterior = colorActual;
-        segundosAnterior = segundosEnColor;
-        colorActual = "Intermitente";
+     esIntermitente = true;   
+     colorActual = "Amarillo";
+     segundosEnColor = 0;
     }
 
     public void SacarDeIntermitente()
     {
-        colorActual = colorAnterior;
-        segundosEnColor = segundosAnterior;
+        esIntermitente = false;
+        colorActual = "Rojo"; 
+        segundosEnColor = 0;
+
     }
 }

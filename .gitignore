@@ -1,0 +1,6 @@
+nuevo-ejercicio.sh
+
+# User-specific files
+*.user
+*.suo
+.vs/

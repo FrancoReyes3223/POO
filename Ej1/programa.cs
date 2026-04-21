@@ -15,6 +15,8 @@ class Program
         miSemaforo.MostrarColor();
 
         miSemaforo.PonerEnIntermitente();
+        miSemaforo.MostrarColor();
+
         miSemaforo.PasoDelTiempo(3);
         miSemaforo.MostrarColor();
 

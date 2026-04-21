@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/francoreyes/Documentos/poo/Ej1/Ej1.csproj",
-      "projectName": "Ej1",
-      "projectPath": "/home/francoreyes/Documentos/poo/Ej1/Ej1.csproj",
+      "projectUniqueName": "/home/francoreyes/Documentos/poo/Ej3/Ej3.csproj",
+      "projectName": "Ej3",
+      "projectPath": "/home/francoreyes/Documentos/poo/Ej3/Ej3.csproj",
       "packagesPath": "/home/francoreyes/.nuget/packages/",
-      "outputPath": "/home/francoreyes/Documentos/poo/Ej1/obj/",
+      "outputPath": "/home/francoreyes/Documentos/poo/Ej3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/francoreyes/.nuget/NuGet/NuGet.Config"
