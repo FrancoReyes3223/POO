@@ -1,0 +1,15 @@
+/home/francoreyes/Documentos/poo/Ej3/bin/Debug/net10.0/Ej3
+/home/francoreyes/Documentos/poo/Ej3/bin/Debug/net10.0/Ej3.deps.json
+/home/francoreyes/Documentos/poo/Ej3/bin/Debug/net10.0/Ej3.runtimeconfig.json
+/home/francoreyes/Documentos/poo/Ej3/bin/Debug/net10.0/Ej3.dll
+/home/francoreyes/Documentos/poo/Ej3/bin/Debug/net10.0/Ej3.pdb
+/home/francoreyes/Documentos/poo/Ej3/obj/Debug/net10.0/Ej3.GeneratedMSBuildEditorConfig.editorconfig
+/home/francoreyes/Documentos/poo/Ej3/obj/Debug/net10.0/Ej3.AssemblyInfoInputs.cache
+/home/francoreyes/Documentos/poo/Ej3/obj/Debug/net10.0/Ej3.AssemblyInfo.cs
+/home/francoreyes/Documentos/poo/Ej3/obj/Debug/net10.0/Ej3.csproj.CoreCompileInputs.cache
+/home/francoreyes/Documentos/poo/Ej3/obj/Debug/net10.0/Ej3.sourcelink.json
+/home/francoreyes/Documentos/poo/Ej3/obj/Debug/net10.0/Ej3.dll
+/home/francoreyes/Documentos/poo/Ej3/obj/Debug/net10.0/refint/Ej3.dll
+/home/francoreyes/Documentos/poo/Ej3/obj/Debug/net10.0/Ej3.pdb
+/home/francoreyes/Documentos/poo/Ej3/obj/Debug/net10.0/Ej3.genruntimeconfig.cache
+/home/francoreyes/Documentos/poo/Ej3/obj/Debug/net10.0/ref/Ej3.dll
