@@ -1,0 +1,15 @@
+/home/francoreyes/Documentos/poo/Ej2/bin/Debug/net10.0/Ej2
+/home/francoreyes/Documentos/poo/Ej2/bin/Debug/net10.0/Ej2.deps.json
+/home/francoreyes/Documentos/poo/Ej2/bin/Debug/net10.0/Ej2.runtimeconfig.json
+/home/francoreyes/Documentos/poo/Ej2/bin/Debug/net10.0/Ej2.dll
+/home/francoreyes/Documentos/poo/Ej2/bin/Debug/net10.0/Ej2.pdb
+/home/francoreyes/Documentos/poo/Ej2/obj/Debug/net10.0/Ej2.GeneratedMSBuildEditorConfig.editorconfig
+/home/francoreyes/Documentos/poo/Ej2/obj/Debug/net10.0/Ej2.AssemblyInfoInputs.cache
+/home/francoreyes/Documentos/poo/Ej2/obj/Debug/net10.0/Ej2.AssemblyInfo.cs
+/home/francoreyes/Documentos/poo/Ej2/obj/Debug/net10.0/Ej2.csproj.CoreCompileInputs.cache
+/home/francoreyes/Documentos/poo/Ej2/obj/Debug/net10.0/Ej2.sourcelink.json
+/home/francoreyes/Documentos/poo/Ej2/obj/Debug/net10.0/Ej2.dll
+/home/francoreyes/Documentos/poo/Ej2/obj/Debug/net10.0/refint/Ej2.dll
+/home/francoreyes/Documentos/poo/Ej2/obj/Debug/net10.0/Ej2.pdb
+/home/francoreyes/Documentos/poo/Ej2/obj/Debug/net10.0/Ej2.genruntimeconfig.cache
+/home/francoreyes/Documentos/poo/Ej2/obj/Debug/net10.0/ref/Ej2.dll

@@ -1,0 +1,15 @@
+/home/francoreyes/Documentos/poo/Ej4/bin/Debug/net10.0/Ej4
+/home/francoreyes/Documentos/poo/Ej4/bin/Debug/net10.0/Ej4.deps.json
+/home/francoreyes/Documentos/poo/Ej4/bin/Debug/net10.0/Ej4.runtimeconfig.json
+/home/francoreyes/Documentos/poo/Ej4/bin/Debug/net10.0/Ej4.dll
+/home/francoreyes/Documentos/poo/Ej4/bin/Debug/net10.0/Ej4.pdb
+/home/francoreyes/Documentos/poo/Ej4/obj/Debug/net10.0/Ej4.GeneratedMSBuildEditorConfig.editorconfig
+/home/francoreyes/Documentos/poo/Ej4/obj/Debug/net10.0/Ej4.AssemblyInfoInputs.cache
+/home/francoreyes/Documentos/poo/Ej4/obj/Debug/net10.0/Ej4.AssemblyInfo.cs
+/home/francoreyes/Documentos/poo/Ej4/obj/Debug/net10.0/Ej4.csproj.CoreCompileInputs.cache
+/home/francoreyes/Documentos/poo/Ej4/obj/Debug/net10.0/Ej4.sourcelink.json
+/home/francoreyes/Documentos/poo/Ej4/obj/Debug/net10.0/Ej4.dll
+/home/francoreyes/Documentos/poo/Ej4/obj/Debug/net10.0/refint/Ej4.dll
+/home/francoreyes/Documentos/poo/Ej4/obj/Debug/net10.0/Ej4.pdb
+/home/francoreyes/Documentos/poo/Ej4/obj/Debug/net10.0/Ej4.genruntimeconfig.cache
+/home/francoreyes/Documentos/poo/Ej4/obj/Debug/net10.0/ref/Ej4.dll

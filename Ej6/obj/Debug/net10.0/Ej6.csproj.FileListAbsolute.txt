@@ -1,0 +1,15 @@
+/home/francoreyes/Documentos/poo/Ej6/bin/Debug/net10.0/Ej6
+/home/francoreyes/Documentos/poo/Ej6/bin/Debug/net10.0/Ej6.deps.json
+/home/francoreyes/Documentos/poo/Ej6/bin/Debug/net10.0/Ej6.runtimeconfig.json
+/home/francoreyes/Documentos/poo/Ej6/bin/Debug/net10.0/Ej6.dll
+/home/francoreyes/Documentos/poo/Ej6/bin/Debug/net10.0/Ej6.pdb
+/home/francoreyes/Documentos/poo/Ej6/obj/Debug/net10.0/Ej6.GeneratedMSBuildEditorConfig.editorconfig
+/home/francoreyes/Documentos/poo/Ej6/obj/Debug/net10.0/Ej6.AssemblyInfoInputs.cache
+/home/francoreyes/Documentos/poo/Ej6/obj/Debug/net10.0/Ej6.AssemblyInfo.cs
+/home/francoreyes/Documentos/poo/Ej6/obj/Debug/net10.0/Ej6.csproj.CoreCompileInputs.cache
+/home/francoreyes/Documentos/poo/Ej6/obj/Debug/net10.0/Ej6.sourcelink.json
+/home/francoreyes/Documentos/poo/Ej6/obj/Debug/net10.0/Ej6.dll
+/home/francoreyes/Documentos/poo/Ej6/obj/Debug/net10.0/refint/Ej6.dll
+/home/francoreyes/Documentos/poo/Ej6/obj/Debug/net10.0/Ej6.pdb
+/home/francoreyes/Documentos/poo/Ej6/obj/Debug/net10.0/Ej6.genruntimeconfig.cache
+/home/francoreyes/Documentos/poo/Ej6/obj/Debug/net10.0/ref/Ej6.dll
